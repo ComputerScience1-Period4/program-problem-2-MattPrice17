@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\233306\desktop\new folder\project3\project3\source.cpp(41): warning C4390: ';': empty controlled statement found; is this the intent?
+  Project3.vcxproj -> C:\Users\233306\Desktop\New folder\Project3\Debug\Take In Data.exe
+  Project3.vcxproj -> C:\Users\233306\Desktop\New folder\Project3\Debug\Take In Data.pdb (Partial PDB)
